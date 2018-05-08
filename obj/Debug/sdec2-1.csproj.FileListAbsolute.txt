@@ -1,0 +1,6 @@
+C:\Users\jgood\Desktop\sdec2-1\obj\Debug\sdec2-1.csproj.CoreCompileInputs.cache
+C:\Users\jgood\Desktop\sdec2-1\bin\Debug\sdec2.exe
+C:\Users\jgood\Desktop\sdec2-1\bin\Debug\sdec2.pdb
+C:\Users\jgood\Desktop\sdec2-1\obj\Debug\sdec2.exe
+C:\Users\jgood\Desktop\sdec2-1\obj\Debug\sdec2.pdb
+C:\Users\jgood\Desktop\sdec2-1\obj\Debug\sdec2-1.csprojResolveAssemblyReference.cache
